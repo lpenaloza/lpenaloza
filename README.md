@@ -79,9 +79,6 @@ Actualmente enfocado en la evolución hacia arquitecturas modernas, desarrollo f
 
 ---
 
-
----
-
 ## 📫 Contacto
 
 - 📍 Barranquilla, Colombia  
