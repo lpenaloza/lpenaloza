@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Peñaloza
 
-<!--
-**lpenaloza/lpenaloza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Ingeniero de Sistemas | Consultor Senior en I2B Technologies | Software Engineer
 
-Here are some ideas to get you started:
+Ingeniero de Sistemas con experiencia en desarrollo de software, consultoría tecnológica y plataformas e-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente enfocado en la evolución hacia arquitecturas modernas, desarrollo fullstack y adopción de herramientas de IA para mejorar productividad y desarrollo de software.
+
+---
+
+## 🧭 Experiencia técnica
+
+### 🧩 E-commerce & plataformas
+- VTEX (desarrollo y consultoría)
+
+### 💻 Backend & APIs
+- PHP (Zend Framework)
+- Node.js (Hapi, Sails.js)
+- Arquitectura de servicios
+
+### 🎨 Frontend
+- JavaScript (ES6+)
+- Angular
+- jQuery, ExtJS, Sencha
+- HTML5, CSS3, Responsive Design
+
+### 🗄️ Bases de datos
+- MySQL
+
+### ⚙️ Otros
+- WordPress
+- Git & GitHub
+- Consultoría técnica
+
+---
+
+## 🤖 Enfoque actual
+
+- Integración de IA en desarrollo de software
+- Prompt Engineering
+- Uso de herramientas tipo Claude Code
+- Automatización de procesos de desarrollo
+
+---
+
+## 🏆 Certificaciones destacadas
+
+### 🧠 AI & nuevas tecnologías
+- Claude Code Certification (Anthropic)  
+  https://verify.skilljar.com/c/mx5rvad5uxnz
+
+---
+
+### ⚛️ JavaScript / Frontend
+- Curso de Angular 2 (Udemy)
+- TypeScript - Angular Foundation (Udemy)
+- JavaScript Master (Udemy)
+
+---
+
+### 🟢 Node.js & Backend
+- Node.js Avanzado (Platzi)
+- Node.js Básico (Platzi)
+- Node.js Esencial (Platzi)
+- Node.js con Hapi (Platzi)
+- JavaScript Full Stack con Sails.js (Platzi)
+
+---
+
+### ⚙️ Software Engineering Fundamentals
+- Git & GitHub Profesional (Platzi)
+- Programación Básica (Platzi)
+- JavaScript Fundamentals (Platzi)
+
+---
+
+### 🛒 E-commerce
+- Magento 2 (Udemy)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpenaloza&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpenaloza&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 📍 Barranquilla, Colombia  
+- 💼 LinkedIn: https://linkedin.com/in/luispenalozaguette  
+- 🐦 X: @luispg833
+
+---
+
+> “La tecnología no es solo código, es la forma en que resolvemos problemas reales.”
